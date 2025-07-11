@@ -1,10 +1,3 @@
----
-
-# 🔐 Encrypted Wallet Sharding System on Blockchain
-
-> **A decentralized wallet encryption and sharding system using Hardhat, Reach, IPFS, and cryptographic key derivation.**
-
----
 
 ## 📌 项目简介
 
